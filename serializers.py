@@ -89,3 +89,4 @@ class LyricSerializer(serializers.HyperlinkedModelSerializer):
         instance.save()
         return instance
 
+
